@@ -1,7 +1,7 @@
 # Golang-User-Authentication-JWT
 Authenticating user with JWT using Golang 
 
-COMMING SOON!!
+COMING SOON!!
  
 go packages:
 github.com/dgrijalva/jwt-go
